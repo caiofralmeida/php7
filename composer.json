@@ -1,0 +1,13 @@
+{
+    "name": "jamal/php7",
+    "version": "1",
+
+    "autoload": {
+        "psr-4": {
+            "Jamal\\": "src/Jamal"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    }
+}
