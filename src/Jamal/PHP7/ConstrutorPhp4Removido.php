@@ -7,7 +7,7 @@ class ConstrutorPhp4Removido
     protected $data = 'nao passei pelo construtor';
 
     /**
-     * os dados nao seram atribuidos :(
+     * os dados não serão atribuídos :(
      */
     public function ConstrutorPhp4Removido()
     {
